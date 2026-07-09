@@ -1,73 +1,76 @@
-# Welcome to your Lovable project
+# Jagappa M - Portfolio
 
-## Project info
+Welcome to my personal portfolio website! This project showcases my skills, experience, projects, and technical expertise as a Full Stack Developer.
 
-**URL**: https://lovable.dev/projects/8d57dfcf-33b6-4bba-8f9b-9cbe262ad8cd
+## Live Demo
 
-## How can I edit this code?
+🌐 Portfolio: https://jagappaportfolio1.netlify.app
 
-There are several ways of editing your application.
+## About
 
-**Use Lovable**
+I am a Full Stack Developer with hands-on experience in building responsive and scalable web applications using Java, Spring Boot, React.js, Node.js, and modern web technologies. This portfolio highlights my professional journey, technical skills, and featured projects.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8d57dfcf-33b6-4bba-8f9b-9cbe262ad8cd) and start prompting.
+## Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- Responsive modern UI
+- Interactive developer-themed design
+- About Me section
+- Skills overview
+- Professional Experience
+- Featured Projects
+- Contact Form
+- Social Media Links
 
-**Use your preferred IDE**
+## Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- React.js
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Framer Motion
+- EmailJS
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Installation
 
-Follow these steps:
+Clone the repository:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+```bash
+git clone https://github.com/Jagappa/JagappaM_Portfolio.git
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Navigate to the project:
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+cd JagappaM_Portfolio
+```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Build
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run build
+```
 
-**Use GitHub Codespaces**
+## Author
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Jagappa M**
 
-## What technologies are used for this project?
+- GitHub: https://github.com/Jagappa
+- LinkedIn: https://www.linkedin.com/in/jagappa-m
+- Portfolio: https://jagappaportfolio1.netlify.app
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8d57dfcf-33b6-4bba-8f9b-9cbe262ad8cd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+© 2026 Jagappa M. All Rights Reserved.
