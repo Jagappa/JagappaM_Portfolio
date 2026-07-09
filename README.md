@@ -4,8 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## Live Demo
 
-🌐 Portfolio: https://jagappaportfolio1.netlify.app
-
+🌐 Portfolio:https://jagappamportfolio.netlify.app/
 ## About
 
 I am a Full Stack Developer with hands-on experience in building responsive and scalable web applications using Java, Spring Boot, React.js, Node.js, and modern web technologies. This portfolio highlights my professional journey, technical skills, and featured projects.
@@ -69,8 +68,7 @@ npm run build
 
 - GitHub: https://github.com/Jagappa
 - LinkedIn: https://www.linkedin.com/in/jagappa-m
-- Portfolio: https://jagappaportfolio1.netlify.app
-
+- Portfolio: https://jagappamportfolio.netlify.app/
 ---
 
 © 2026 Jagappa M. All Rights Reserved.
