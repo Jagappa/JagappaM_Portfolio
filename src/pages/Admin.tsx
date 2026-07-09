@@ -290,7 +290,7 @@ const Admin = () => {
               className="w-full bg-portfolio-dark border border-white/10 rounded-md p-2.5 text-sm mb-1 focus:outline-none focus:ring-2 focus:ring-portfolio-accent"
               value={linkForm.resume}
               onChange={(e) => setLinkForm({ ...linkForm, resume: e.target.value })}
-              placeholder="/Jagappa-Resume.pdf"
+              placeholder="/Jagappa__resume.pdf"
             />
             <p className="text-[11px] text-gray-500 mb-3">
               This is the path your Hero section links to for the download button.

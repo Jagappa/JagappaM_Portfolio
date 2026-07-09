@@ -215,7 +215,7 @@ export const DEFAULT_LINKS: ProfileLinks = {
   github: 'https://github.com/Jagappa',
   linkedin: 'https://www.linkedin.com/in/jagappa-m',
   instagram: 'https://www.instagram.com/jaggu_s_m07',
-  resume: '/Jagappa-Resume.pdf',
+  resume: '/Jagappa__resume.pdf',
   email: 'jagappamerigi@gmail.com',
   phone: '+91 7619293345',
   address: 'Vijayanagar, Bangalore 560040',
